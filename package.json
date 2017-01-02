@@ -1,0 +1,22 @@
+{
+  "name": "angular-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/angular": "^1.5.16",
+    "awesome-typescript-loader": "^3.0.0-beta.17",
+    "source-map-loader": "^0.1.5",
+    "typescript": "2.1.1",
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
